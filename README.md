@@ -1,2 +1,2 @@
 # mitx6.00.1-answers
-A repo containing all my work for MIT's "Introduction to Computer Science and Programming Using Python" course.
+The Problem Set questions can be found here: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/assignments/
